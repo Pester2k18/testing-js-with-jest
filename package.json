@@ -1,0 +1,26 @@
+{
+  "name": "JS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pester2k18/testing-js-with-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pester2k18/testing-js-with-jest/issues"
+  },
+  "homepage": "https://github.com/Pester2k18/testing-js-with-jest#readme",
+  "devDependencies": {
+    "jest-cli": "^22.4.3"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
